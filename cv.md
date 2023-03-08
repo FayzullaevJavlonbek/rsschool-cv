@@ -1,1 +1,7 @@
+Hi_there, my_fullname_is_Javlonbek_Fayzullaev
+My_main_focus_on_backend_development_in_.Net
+These_days, I_gonna_master_WebApi_as_well_as_MVC
+Programming_language_C_was_my_intial_step, then_I_moved_to_C++_and_C#
+However, frontend_was_smth_unique_for_me
+Studying_at_Westminster_International_University_with_C1_English_level
 
